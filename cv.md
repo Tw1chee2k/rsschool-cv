@@ -35,3 +35,4 @@ Bolsheuholodskaya middle school
 Novopolsky Agrarian and Economic College, specialty: programmer
 
 ## English Language Level: B2.
+## French Level: A1.
